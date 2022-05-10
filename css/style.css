@@ -1,0 +1,34 @@
+/* INDEX */
+.clickonlog{
+    text-align: center;
+}
+/* CONNEXION REUSSIE */
+.cnxreussie{
+    text-align: center;
+    font-size: x-large;
+    color: green;
+    align-items: center;
+}
+/* ALERT MSG */
+.alertmsg{
+    text-align: center;
+    font-size: x-large;
+    color: greenyellow;
+}
+#hello{
+    text-align: center;
+    font-size:x-large;
+    color: blue;
+}
+/* Rick */
+.img .rick{
+    height: 200;
+}
+/* LOGOUT */
+.logout{
+    font-size: medium;
+    display: flex;
+    float: right;
+    color: red;
+    margin-right: 30px;
+}
